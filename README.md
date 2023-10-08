@@ -1,2 +1,2 @@
 # LouCityPhoto
-Photo Webpage of Images Around Lpouisville
+Photo Webpage of Images Around Louisville
